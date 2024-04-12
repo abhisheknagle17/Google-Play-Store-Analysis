@@ -1,1 +1,3 @@
-# Google-Play-Store-Analysis
+# Google Play Store Analysis
+
+This project aims to identify the best and worst performing apps by analysing their ratings and installation numbers. The "EVENTS" category app has the highest rating, while the "DATING" category app has the lowest rating. The average rating for all the apps is 4.19. The project also includes some data visualization based on ratings and installation numbers, and a machine learning model is applied to the data. The confusion matrix of the model shows that it has a high sensitivity of 0.99, correctly identifying 99.1% of apps with high ratings and many installs. However, the model's specificity is low at 0.070, meaning it correctly identifies only 7.0% of apps with low ratings and few installs
